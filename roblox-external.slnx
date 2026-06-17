@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="roblox-external/roblox-external.vcxproj" Id="db288878-60b3-414a-9085-3ccf6e6d0950" />
+</Solution>
